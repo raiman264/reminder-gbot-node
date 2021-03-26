@@ -1,0 +1,15 @@
+{
+  "name": "reminder-gbot-node",
+  "version": "0.1.0",
+  "description": "reminder bot for google chat",
+  "main": "index.js",
+  "author": "raiman264",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "googleapis": "^68.0.0",
+    "luxon": "^1.26.0",
+    "nodemon": "^2.0.7",
+    "unirest": "^0.6.0"
+  }
+}
